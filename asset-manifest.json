@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CaptureGame/static/css/main.a7ff2cc6.chunk.css",
+    "main.js": "/CaptureGame/static/js/main.c6212410.chunk.js",
+    "main.js.map": "/CaptureGame/static/js/main.c6212410.chunk.js.map",
+    "runtime~main.js": "/CaptureGame/static/js/runtime~main.863493ec.js",
+    "runtime~main.js.map": "/CaptureGame/static/js/runtime~main.863493ec.js.map",
+    "static/js/2.1221463b.chunk.js": "/CaptureGame/static/js/2.1221463b.chunk.js",
+    "static/js/2.1221463b.chunk.js.map": "/CaptureGame/static/js/2.1221463b.chunk.js.map",
+    "index.html": "/CaptureGame/index.html",
+    "precache-manifest.318781584eb6132ac1fc16bd93de66e5.js": "/CaptureGame/precache-manifest.318781584eb6132ac1fc16bd93de66e5.js",
+    "service-worker.js": "/CaptureGame/service-worker.js",
+    "static/css/main.a7ff2cc6.chunk.css.map": "/CaptureGame/static/css/main.a7ff2cc6.chunk.css.map"
+  }
+}
