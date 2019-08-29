@@ -13,13 +13,12 @@ This is the version 1.0 of my Capture Game for my website coming out soon! Basic
 
 3. Each Spot that you moved from becomes a "Wall" and cannot be crossed in the future. 
 
-![alt text](https://github.com/ADelgadillo314/CaptureGame/blob/master/public/LossByCapture.PNG)
-
 4. A Player Wins if the opponent does not have any more moves available to Him: 
 ![alt text](https://github.com/ADelgadillo314/CaptureGame/blob/master/public/NoMovesLeft.PNG)
 
 5. A Player Wins if the opponent crosses there path on His/Her Turn. 
 
+![alt text](https://github.com/ADelgadillo314/CaptureGame/blob/master/public/LossByCapture.PNG)
 
 Enjoy! 
 # ***Full Website Coming Soon! 
