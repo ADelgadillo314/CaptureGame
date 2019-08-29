@@ -1,0 +1,103 @@
+.row {
+  display: flex;
+}
+
+
+@keyframes symbol-appear {
+  from {
+    transform: scale(1.9);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+svg {
+  animation-name: symbol-appear;
+  animation-duration: .15s;
+}
+
+.board{
+  background-color: #B37C57;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.buttonBar{
+  display: inline-block;
+}
+
+.captureGame{
+  display: block;
+}
+
+.game{
+  
+  display: flex;
+}
+
+.scores{
+  display: inline-block;
+  border: 1px solid #ccc!important;
+  border-radius: 16px;  
+  padding: 0.01em 16px;
+  margin: 30px;
+  background-color: #DDE2E3;
+}
+
+.player{
+  margin: 20px;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.score{
+  display: block;
+  font-size: 40px;
+}
+.gameMode{
+  height: 50px;
+  width: 50px;
+  margin: 8px 40px 8px;
+  display: inline-block;
+}
+
+.mode{
+  border-radius: 16px;
+}
+.modeTitle{
+  font-size: 20px;
+}
+
+.buttonBar button{
+  margin: 20px;
+
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #3C455C;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+}
+.buttonBar button:hover {
+  color: #404040 !important;
+  font-weight: 700 !important;
+  letter-spacing: 3px;
+  background: none;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.3s ease 0s;
+  }
+
+.mode:hover {
+  color: #404040 !important;
+  font-weight: 700 !important;
+  letter-spacing: 3px;
+  background: none;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.3s ease 0s;
+  }

@@ -1,0 +1,5 @@
+export const MOVE_PLAYER = 'MOVE_PLAYER';
+export const START_NEW_GAME = 'START_NEW_GAME';
+export const UNDO_LAST_MOVE = 'UNDO_LAST_MOVE';
+export const AUTO_SELECT_MOVE = 'AUTO_SELECT_MOVE';
+export const SWITCH_GAME_MODE = 'SWITCH_GAME_MODE';
