@@ -15,11 +15,11 @@ This is the version 1.0 of my Capture Game for my website coming out soon! Basic
 
 4. A Player Wins if the opponent does not have any more moves available to Him: 
 ![alt text](https://github.com/ADelgadillo314/CaptureGame/blob/master/public/NoMovesLeft.PNG)
-
+*X will lose in his next turn because there are no more moves available for them!
 5. A Player Wins if the opponent crosses there path on His/Her Turn. 
 
 ![alt text](https://github.com/ADelgadillo314/CaptureGame/blob/master/public/LossByCapture.PNG)
-
+X will lose because it is O's turn and O will strike him down!
 Enjoy! 
 # ***Full Website Coming Soon! 
 
